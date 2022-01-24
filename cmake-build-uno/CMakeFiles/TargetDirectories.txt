@@ -1,0 +1,5 @@
+/Users/juerdmb/CLionProjects/BB-1/cmake-build-uno/CMakeFiles/rebuild_cache.dir
+/Users/juerdmb/CLionProjects/BB-1/cmake-build-uno/CMakeFiles/edit_cache.dir
+/Users/juerdmb/CLionProjects/BB-1/cmake-build-uno/CMakeFiles/Z_DUMMY_TARGET.dir
+/Users/juerdmb/CLionProjects/BB-1/cmake-build-uno/CMakeFiles/Debug.dir
+/Users/juerdmb/CLionProjects/BB-1/cmake-build-uno/CMakeFiles/Production.dir
